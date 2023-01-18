@@ -1,0 +1,21 @@
+{
+	"id": "1b353017-f802-4470-8151-fcd07013d865",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://api.predic8.de/shop",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "var",
+			"value": "https://dummy.restapiexample.com/api/v1\t",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-01-18T00:35:36.286Z",
+	"_postman_exported_using": "Postman/10.8.1"
+}
